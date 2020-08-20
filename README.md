@@ -2,9 +2,7 @@
 
 🚀💪🏽This project is deployed at: [reactjs-weathernow.netlify.app](https://reactjs-weathernow.netlify.app/)
 
-This app was made with react.js and was is made for anyone rewatching the hit series during the lockdown. For referencing Breaking Bad characters while watching the show.
-
-⚠️WARNING CONTAINS SPOILERS⚠️
+A simple responsive web app written react.js that allows the user to search for the weather by city or zipcode
 
 ## [](https://github.com/sidbhanushali/StoryCore#project-purpose-and-scope)Project purpose and scope
 
